@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+	div#popup{
+		position:absolute; top:100px; left:50px; color:yellow;
+		width:270px; height:100px; background-color:gray;
+	}
+	div#popup>div{
+		position:relative; background-color:white; padding:10px;
+		top:0px; border:1px solid gray; color:black;
+	}
